@@ -52,9 +52,7 @@ The service will be categorized  based on
 
 
 ### Analysis 
-
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](https://public.tableau.com/views/Bike_sharing_15794957062540/letsride?:display_count=y&publish=yes&:origin=viz_share_link "link to dashboard")
+(https://public.tableau.com/views/Bike_sharing_15794957062540/letsride?:display_count=y&publish=yes&:origin=viz_share_link "link to Complete analysis")
 
 In Order to show how successful the model will be, we are using Citi bike new york case analysis, based on the figures and number a tableau interactive dashboard is created. <BR>
 
