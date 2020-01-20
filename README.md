@@ -41,6 +41,7 @@ Bike share is growing at an astounding clip across the U.S., with over 88 millio
 
 Bike share is growing at an astounding clip across the U.S., with over 88 million trips made on a bike share bike in the U.S. since 2010. In 2016 alone, riders took over 28 million trips, on par with the annual ridership of the entire Amtrak system, and higher than the number of people visiting Walt Disney World each year. <BR>
 
+![Bike-Sharing-Growth-in-US](https://user-images.githubusercontent.com/55926650/72699843-dc478400-3afe-11ea-8430-142e4a29b208.png) 
 ### Des Moines 
 Des Moines is the capital city of Iowa. The gold-domed Iowa State Capitol building is among the 19th- and early-20th-century landmarks of the East Village area.
 Des Moines is a four season city! one can catch their  favorite seasons throughout the year in Greater Des Moines.
@@ -53,6 +54,7 @@ The service will be categorized  based on
 
 
 ### Analysis 
+[link to dashboard](https://public.tableau.com/profile/barinder8834#!/vizhome/Bike_sharing_15794957062540/letsride-challenge?publish=yes)
 
 In Order to show how successful the model will be, we are using Citi bike new york case analysis, based on the figures and number a tableau interactive dashboard is created. <BR>
 
@@ -106,12 +108,7 @@ Final but a crucial set of steps on the path to start a bike share business is t
 ### Pricing 
 Based on the subscription special packages will be provided to the customers. 
 In Order to encourage more visitors to take bike rentals, a special package will be prepared where the bikers will be given some discounts on tickets to see and visit all the famous landmarks.
-For our long term and monthly costumers  based on the usage   customised packages will be prepared 
-
-
-
-
-
+For our long term and monthly costumers  based on the usage   customised packages will be prepared
 
 
 
